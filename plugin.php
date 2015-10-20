@@ -71,7 +71,7 @@ if (!function_exists('tspt')) {
  * @since   1.1.0
  * @return  False when piklist is not active
  */
-if (!function_exists('tspt')) {
+if (!function_exists('tspt_piklist_checker')) {
 	function tspt_piklist_checker(){
 		if(is_admin()) {
 			include_once( 'includes/class-piklist-checker.php');
