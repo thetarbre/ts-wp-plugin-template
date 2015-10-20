@@ -36,8 +36,8 @@ if (!function_exists('tspt')) {
 		 * @since   1.0.0
 		 **/
 
-		/*if ( ! defined( 'CONST' ) )
-		define( 'CONST', 'a constant value' );*/
+		if ( ! defined( 'TSPT' ) )
+		define( 'TSPT', 'tspt' );
 
 		/**
 		 * File inclusion
