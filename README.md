@@ -212,4 +212,3 @@ ts-wp-plugin-template
    >use `grunt watch` in the beginning of editing for watching every change,
    >make sure to `grunt build` every time the editing is done
 
-asdhakshdkasd
