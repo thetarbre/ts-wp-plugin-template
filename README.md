@@ -211,4 +211,3 @@ ts-wp-plugin-template
    >Everytime you change the sass and js file make sure to use `grunt`,
    >use `grunt watch` in the beginning of editing for watching every change,
    >make sure to `grunt build` every time the editing is done
-this is test
