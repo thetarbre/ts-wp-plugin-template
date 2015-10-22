@@ -1,4 +1,5 @@
 #About
+Hi this is modified by thetarbre
 A WP plugin template for Tuning Synesthesia. Its origianl code was taken from [Wordpress-plugin-template](https://github.com/hlashbrooke/WordPress-Plugin-Template) by hlashbrooke and modified for some purpose.
 ## Versions available
 
